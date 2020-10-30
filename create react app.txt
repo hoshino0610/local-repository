@@ -12,6 +12,11 @@ Quick Overview
 npm install -g create-react-app
 create-react-app my-app
 
+-------------------------------------------------
+※in the case of typescript:
+$ npx create-react-app --template typescript myapp
+
+--------------------------------------------------
 cd my-app/
 npm start
 
